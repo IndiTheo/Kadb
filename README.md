@@ -1,7 +1,4 @@
-# Kadb (mDNS Fix Fork)
-
-> [!NOTE]
-> This is a temporary fork of [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) intended to fix bugs in the mDNS implementation until they are resolved upstream.
+# Kadb
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.flyfishxu/kadb.svg)](https://central.sonatype.com/artifact/com.flyfishxu/kadb)
 
